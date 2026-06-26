@@ -1,0 +1,28 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  public-proof-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check required public files
+        run: |
+          test -f README.md
+          test -f public_proof_manifest.md
+          test -f safe_public_scope.md
+          test -f redaction_checklist.md
+          test -f seven_day_github_balance_plan.md
+
+      - name: Check public boundary wording
+        run: |
+          ! grep -R "Maximilion Public Proof" .
+          ! grep -R "maximilion-public-proof" .
+          ! grep -R "private Maximilion" .
+          ! grep -R "Public Maximilion" .
+          ! grep -R "private Maximilion internals" .
