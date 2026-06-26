@@ -6,9 +6,21 @@ This repository is a narrow public proof surface for learning discipline, docume
 
 It is not the full research project. It is only a public-facing record of careful learning, small reviewable work, and quality habits.
 
+## Repository Map
+
+Start here:
+
+- [Public proof manifest](public_proof_manifest.md)
+- [Safe public scope](safe_public_scope.md)
+- [Redaction checklist](redaction_checklist.md)
+- [First public-safe learning note](notes/learning/001_public_proof_rhythm.md)
+- [Public-safe note template](templates/public_safe_note_template.md)
+- [Contribution boundaries](CONTRIBUTING.md)
+- [Changelog](CHANGELOG.md)
+
 ## Public-Safe Scope
 
-This future public repository should contain only sanitized learning notes, public-safe build logs, documentation discipline examples, testing discipline notes, and non-sensitive changelog entries.
+This repository contains only sanitized learning notes, public-safe documentation examples, review discipline artifacts, lightweight quality checks, and non-sensitive changelog entries.
 
 ## What Will Be Public
 
@@ -17,7 +29,8 @@ This future public repository should contain only sanitized learning notes, publ
 - Documentation discipline examples
 - Testing discipline notes
 - Public issue and PR rhythm
-- Non-sensitive changelog
+- Non-sensitive changelog entries
+- Public-safe templates and checklists
 
 ## What Will Not Be Public
 
@@ -37,4 +50,4 @@ Public proof should help a reader understand the learning process, safety bounda
 
 ## Current Status
 
-This README is copy-ready starter material. The public repository should be created manually later, after the owner decides which sanitized learning artifacts are safe to publish.
+This repository is active as a public-safe proof surface. Future changes should stay small, reviewable, documented, and inside the public boundary.
