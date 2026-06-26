@@ -21,8 +21,8 @@ jobs:
 
       - name: Check public boundary wording
         run: |
-          ! grep -R "Maximilion Public Proof" .
-          ! grep -R "maximilion-public-proof" .
-          ! grep -R "private Maximilion" .
-          ! grep -R "Public Maximilion" .
-          ! grep -R "private Maximilion internals" .
+          ! grep -R --exclude-dir=.git --exclude-dir=.github "Maximilion Public Proof" .
+          ! grep -R --exclude-dir=.git --exclude-dir=.github "maximilion-public-proof" .
+          ! grep -R --exclude-dir=.git --exclude-dir=.github "private Maximilion" .
+          ! grep -R --exclude-dir=.git --exclude-dir=.github "Public Maximilion" .
+          ! grep -R --exclude-dir=.git --exclude-dir=.github "private Maximilion internals" .
