@@ -14,6 +14,8 @@ Start here:
 - [Safe public scope](safe_public_scope.md)
 - [Redaction checklist](redaction_checklist.md)
 - [First public-safe learning note](notes/learning/001_public_proof_rhythm.md)
+- [Daily notes](notes/daily/README.md)
+- [Weekly notes](notes/weekly/README.md)
 - [Public-safe note template](templates/public_safe_note_template.md)
 - [Contribution boundaries](CONTRIBUTING.md)
 - [Changelog](CHANGELOG.md)
