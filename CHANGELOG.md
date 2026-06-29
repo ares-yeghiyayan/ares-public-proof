@@ -15,6 +15,7 @@ This changelog records public-safe repository improvements. It is intentionally 
 - First public-safe learning note.
 - Public-safe note template.
 - Review before proof checkpoint.
+- Public proof discipline note.
 
 ## Changelog Rules
 
