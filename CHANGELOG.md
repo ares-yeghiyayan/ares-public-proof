@@ -14,6 +14,7 @@ This changelog records public-safe repository improvements. It is intentionally 
 - Lightweight CI boundary check.
 - First public-safe learning note.
 - Public-safe note template.
+- Review before proof checkpoint.
 
 ## Changelog Rules
 
