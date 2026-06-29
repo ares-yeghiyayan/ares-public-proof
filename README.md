@@ -13,6 +13,7 @@ Start here:
 - [Public proof manifest](public_proof_manifest.md)
 - [Safe public scope](safe_public_scope.md)
 - [Redaction checklist](redaction_checklist.md)
+- [Public proof discipline](notes/investor/001_public_proof_discipline.md)
 - [First public-safe learning note](notes/learning/001_public_proof_rhythm.md)
 - [Daily notes](notes/daily/README.md)
 - [Weekly notes](notes/weekly/README.md)
@@ -39,7 +40,6 @@ This repository contains only sanitized learning notes, public-safe documentatio
 - Internal design details
 - Internal naming systems
 - Sensitive assumptions
-- Market or audience strategy
 - Workflow details
 - Evaluation details
 - Internal proof structure
