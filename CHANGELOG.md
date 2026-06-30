@@ -1,6 +1,6 @@
 # Changelog
 
-This changelog records public-safe repository improvements. It is intentionally high-level and should not include private research, sensitive implementation details, internal names, customer assumptions, market strategy, performance claims, financial advice claims, or production readiness claims.
+This changelog records public-safe repository improvements.
 
 ## Unreleased
 
@@ -16,6 +16,7 @@ This changelog records public-safe repository improvements. It is intentionally 
 - Public-safe note template.
 - Review before proof checkpoint.
 - Public proof discipline note.
+- Repeatable proof reflection note.
 
 ## Changelog Rules
 
@@ -28,4 +29,4 @@ Future entries should focus on public repository discipline:
 - issue and pull request rhythm improved
 - public-safe documentation structure improved
 
-Future entries should not include private architecture, internal naming systems, detailed workflows, customer strategy, market positioning, private prompts, proprietary methods, performance claims, financial advice claims, or production readiness claims.
+Future entries should stay high-level and public-safe.
