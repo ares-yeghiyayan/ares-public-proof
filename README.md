@@ -14,6 +14,7 @@ Start here:
 - [Safe public scope](safe_public_scope.md)
 - [Redaction checklist](redaction_checklist.md)
 - [Public proof discipline](notes/investor/001_public_proof_discipline.md)
+- [Repeatable proof reflection](notes/investor/002_repeatable_proof.md)
 - [First public-safe learning note](notes/learning/001_public_proof_rhythm.md)
 - [Daily notes](notes/daily/README.md)
 - [Weekly notes](notes/weekly/README.md)
