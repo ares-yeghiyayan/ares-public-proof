@@ -17,6 +17,7 @@ This changelog records public-safe repository improvements.
 - Review before proof checkpoint.
 - Public proof discipline note.
 - Repeatable proof reflection note.
+- Public review guide.
 
 ## Changelog Rules
 
