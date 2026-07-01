@@ -1,20 +1,12 @@
 # Start Here
 
-This repository is a public proof trail for Ares Yeghiyayan, founder of Maximelion.
+This is the fastest way to understand Ares Yeghiyayan's public proof trail around Maximelion.
 
-It is designed for a quick review.
+## In 5 Seconds
 
-## In 60 Seconds
+Ares is building Maximelion: decision intelligence infrastructure for institutional capital.
 
-Read this repository as a pattern, not as a pitch.
-
-Look for:
-
-- small artifacts
-- clear notes
-- safe boundaries
-- review before claim
-- steady improvement
+This repository shows the public proof layer: small artifacts, review rhythm, safe boundaries, and visible progress.
 
 ## Read In This Order
 
@@ -22,14 +14,25 @@ Look for:
 2. `PUBLIC_REVIEW.md`
 3. `public_proof_manifest.md`
 4. `safe_public_scope.md`
-5. `CHANGELOG.md`
+5. `redaction_checklist.md`
+6. `CHANGELOG.md`
 
-## What To Notice
+## What To Look For
 
-The important signal is not volume.
+Look for:
 
-The important signal is whether the founder can keep building in small, reviewable, public-safe steps.
+- small artifacts
+- clear notes
+- review before claim
+- public-safe boundaries
+- steady improvement
 
-## Boundary
+## What Not To Assume
 
-This repository is public proof only. It does not expose the full private project.
+This is not the full Maximelion project.
+
+It does not expose private architecture, customer material, sensitive strategy, or private research details.
+
+## Final CTA
+
+Start here. Review the proof. Follow the build.
