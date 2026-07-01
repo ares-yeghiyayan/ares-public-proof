@@ -2,13 +2,15 @@
 
 [![CI](https://github.com/ares-yeghiyayan/ares-public-proof/actions/workflows/ci.yml/badge.svg)](https://github.com/ares-yeghiyayan/ares-public-proof/actions/workflows/ci.yml)
 
-This repository is the public proof surface for Ares Yeghiyayan, founder of Maximelion.
+A public proof trail for **Ares Yeghiyayan**, founder of **Maximelion**.
 
-It shows the work pattern behind the founder: small artifacts, clear notes, safe boundaries, review discipline, and steady improvement over time.
+Maximelion is being built as decision intelligence infrastructure for institutional capital.
 
-It is not the full research project. It is a public-facing proof trail for learning discipline, documentation discipline, and careful build rhythm.
+This repository is the public layer: small artifacts, review notes, safe boundaries, and visible progress that make the founder's work easier to inspect.
 
 ## Start Here
+
+Start here -> Review the proof -> Follow the build.
 
 - [Start here](START_HERE.md)
 - [Public review guide](PUBLIC_REVIEW.md)
@@ -27,32 +29,28 @@ It is not the full research project. It is a public-facing proof trail for learn
 - [Public-safe note template](templates/public_safe_note_template.md)
 - [Contribution boundaries](CONTRIBUTING.md)
 
-## Public-Safe Scope
-
-This repository contains only sanitized learning notes, public-safe documentation examples, review discipline artifacts, lightweight quality checks, and non-sensitive changelog entries.
-
 ## What This Repository Proves
 
-- The founder can work in small, reviewable units.
-- The founder can document without overclaiming.
-- The founder can separate public proof from private work.
-- The founder can improve the surface through repeated, safe changes.
+- The founder can turn ambition into small visible artifacts.
+- The work has review rhythm, not just claims.
+- The public surface has boundaries.
+- The story improves through repeated, safe changes.
 
-## What Will Not Be Public
+## What This Repository Does Not Show
 
-- Internal design details
-- Internal naming systems
-- Sensitive assumptions
-- Workflow details
-- Evaluation details
-- Internal proof structure
-- Credentials
-- Restricted planning material
+- the full private project
+- private architecture
+- customer material
+- sensitive strategy
+- private research details
+- execution claims or performance claims
 
-## Proof Boundary
+## Review Signal
 
-Public proof should help a reader understand the learning process, safety boundaries, and execution discipline. It should not disclose private methods, sensitive assumptions, naming systems, or anything that creates exposure.
+```text
+small artifact -> review -> boundary -> changelog -> repeat
+```
 
 ## Current Status
 
-This repository is active as a public-safe proof surface. Future changes should stay small, reviewable, documented, and inside the public boundary.
+This repository is the flagship public proof surface for Maximelion founder credibility. Future changes should stay clear, useful, reviewable, and public-safe.
