@@ -10,6 +10,7 @@ It is not the full research project. It is only a public-facing record of carefu
 
 Start here:
 
+- [Public review guide](PUBLIC_REVIEW.md)
 - [Public proof manifest](public_proof_manifest.md)
 - [Safe public scope](safe_public_scope.md)
 - [Redaction checklist](redaction_checklist.md)
