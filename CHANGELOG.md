@@ -18,6 +18,11 @@ This changelog records public-safe repository improvements.
 - Public proof discipline note.
 - Repeatable proof reflection note.
 - Public review guide.
+- Start here guide.
+
+### Changed
+
+- Repackaged the README as a clearer Maximelion founder proof surface.
 
 ## Changelog Rules
 
