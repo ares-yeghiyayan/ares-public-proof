@@ -1,19 +1,24 @@
-# Founder Public Proof
+# Maximelion Founder Proof
 
 [![CI](https://github.com/ares-yeghiyayan/ares-public-proof/actions/workflows/ci.yml/badge.svg)](https://github.com/ares-yeghiyayan/ares-public-proof/actions/workflows/ci.yml)
 
-This repository is a narrow public proof surface for learning discipline, documentation discipline, and safe build rhythm.
+This repository is the public proof surface for Ares Yeghiyayan, founder of Maximelion.
 
-It is not the full research project. It is only a public-facing record of careful learning, small reviewable work, and quality habits.
+It shows the work pattern behind the founder: small artifacts, clear notes, safe boundaries, review discipline, and steady improvement over time.
 
-## Repository Map
+It is not the full research project. It is a public-facing proof trail for learning discipline, documentation discipline, and careful build rhythm.
 
-Start here:
+## Start Here
 
+- [Start here](START_HERE.md)
 - [Public review guide](PUBLIC_REVIEW.md)
 - [Public proof manifest](public_proof_manifest.md)
 - [Safe public scope](safe_public_scope.md)
 - [Redaction checklist](redaction_checklist.md)
+- [Changelog](CHANGELOG.md)
+
+## Proof Trail
+
 - [Public proof discipline](notes/investor/001_public_proof_discipline.md)
 - [Repeatable proof reflection](notes/investor/002_repeatable_proof.md)
 - [First public-safe learning note](notes/learning/001_public_proof_rhythm.md)
@@ -21,21 +26,17 @@ Start here:
 - [Weekly notes](notes/weekly/README.md)
 - [Public-safe note template](templates/public_safe_note_template.md)
 - [Contribution boundaries](CONTRIBUTING.md)
-- [Changelog](CHANGELOG.md)
 
 ## Public-Safe Scope
 
 This repository contains only sanitized learning notes, public-safe documentation examples, review discipline artifacts, lightweight quality checks, and non-sensitive changelog entries.
 
-## What Will Be Public
+## What This Repository Proves
 
-- Sanitized learning notes
-- Public-safe build logs
-- Documentation discipline examples
-- Testing discipline notes
-- Public issue and PR rhythm
-- Non-sensitive changelog entries
-- Public-safe templates and checklists
+- The founder can work in small, reviewable units.
+- The founder can document without overclaiming.
+- The founder can separate public proof from private work.
+- The founder can improve the surface through repeated, safe changes.
 
 ## What Will Not Be Public
 
