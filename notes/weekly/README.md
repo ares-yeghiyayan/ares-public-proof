@@ -13,6 +13,10 @@ A weekly note should show:
 - what stayed consistent
 - what should be tightened next
 
+## Notes
+
+- [Weekly Note 001: Evidence Before Decision](001_evidence_before_decision.md)
+
 ## Related
 
 - [Daily notes](../daily/README.md)
