@@ -19,6 +19,7 @@ This changelog records public-safe repository improvements.
 - Repeatable proof reflection note.
 - Public review guide.
 - Start here guide.
+- Weekly Note 001: Evidence Before Decision.
 
 ### Changed
 
