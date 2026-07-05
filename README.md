@@ -24,6 +24,7 @@ Start here -> Review the proof -> Follow the build.
 - [Public proof discipline](notes/investor/001_public_proof_discipline.md)
 - [Repeatable proof reflection](notes/investor/002_repeatable_proof.md)
 - [First public-safe learning note](notes/learning/001_public_proof_rhythm.md)
+- [Public surface review 001](reviews/public_surface_review_001.md)
 - [Daily notes](notes/daily/README.md)
 - [Weekly notes](notes/weekly/README.md)
 - [Public-safe note template](templates/public_safe_note_template.md)
