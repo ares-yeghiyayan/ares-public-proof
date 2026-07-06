@@ -21,6 +21,7 @@ This changelog records public-safe repository improvements.
 - Start here guide.
 - Weekly Note 001: Evidence Before Decision.
 - Public Surface Review 001.
+- Public reviews index.
 
 ### Changed
 
