@@ -16,6 +16,7 @@ A weekly note should show:
 ## Notes
 
 - [Weekly Note 001: Evidence Before Decision](001_evidence_before_decision.md)
+- [Weekly Note 002: Review Before Claim](002_review_before_claim.md)
 
 ## Related
 
