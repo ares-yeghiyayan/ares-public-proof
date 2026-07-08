@@ -23,10 +23,12 @@ This changelog records public-safe repository improvements.
 - Public Surface Review 001.
 - Public reviews index.
 - Weekly Note 002: Review Before Claim.
+- Daily proof pulse for 2026-07-08.
 
 ### Changed
 
 - Repackaged the README as a clearer Maximelion founder proof surface.
+- Surfaced the latest daily proof pulse in the README proof trail.
 
 ## Changelog Rules
 
