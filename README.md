@@ -21,6 +21,7 @@ Start here -> Review the proof -> Follow the build.
 
 ## Proof Trail
 
+- [Latest daily proof pulse](notes/daily/2026-07-08_public_proof_log.md)
 - [Public proof discipline](notes/investor/001_public_proof_discipline.md)
 - [Repeatable proof reflection](notes/investor/002_repeatable_proof.md)
 - [First public-safe learning note](notes/learning/001_public_proof_rhythm.md)
